@@ -25,7 +25,7 @@ Este projeto consiste em um simulador de caixa eletrônico implementado em Pytho
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório.
 3. Navegue até o diretório do projeto.
-4. Execute o arquivo `caixa_eletronico.py`. <a https://github.com/malakpentest/desafio-DIO-bank/blob/main/ProjetodeCaixaEletronico.py </a>
+4. Execute o arquivo [`caixa_eletronico.py`]. (https://github.com/malakpentest/desafio-DIO-bank/blob/main/ProjetodeCaixaEletronico.py)
 
 ## Contribuições
 
