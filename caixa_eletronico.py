@@ -25,11 +25,22 @@ if __name__ == "__main__":
     caixa = CaixaEletronico()
 
     while True:
-        print("\nOpções:")
-        print("1. Depósito")
-        print("2. Saque")
-        print("3. Extrato")
-        print("4. Encerrar")
+        print('==' * 30)
+        print('{:^60}'.format('BANCO DO FEFEBANK'))
+        print('==' * 30)
+        print('')
+        print('{:^60}'.format('MENU PRINCIPAL'))
+        print('==' * 30)
+        print('')
+        print('{}  {}  {}'.format('Deposito', '_' * 47, '1'))
+        print('')
+        print('{}  {}  {}'.format('Saque', '__' * 25, '2'))
+        print('')
+        print('{}  {}  {}'.format('Extrato', '_' * 48, '3'))
+        print('')
+        print('{}  {}  {}'.format('Sair', '_' * 51, '4'))
+        print('')
+        print('==' * 30)
 
         opcao = input("Escolha uma opção (1/2/3/4): ")
 
